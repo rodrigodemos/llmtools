@@ -1,0 +1,11 @@
+azure-identity
+azure-ai-formrecognizer
+azure-cosmos >= 4.4.0b1
+azure-search-documents
+
+langchain
+python-dotenv
+pypdf2
+openai
+redis
+tiktoken
